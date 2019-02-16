@@ -1,2 +1,2 @@
-# GoogleTechDevGuide-Programming-Solutions
-Solutions to Google Tech Dev Guide Problems - Foundation and Advanced Path
+# Google Tech Dev Guide - Programming Solutions
+Solutions to Google Tech Dev Guide Problems - Foundation and Advanced Path in C#
